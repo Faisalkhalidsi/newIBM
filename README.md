@@ -1,2 +1,2 @@
 # indo
-commit pertama
+Created for IBM Team FIK University of Indonesia
